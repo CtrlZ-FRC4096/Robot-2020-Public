@@ -1,0 +1,9 @@
+{
+  "lengthUnit": "Meter",
+  "exportUnit": "Always Meters",
+  "maxVelocity": 3.96,
+  "maxAcceleration": 2.88,
+  "wheelBase": 0.75438,
+  "gameName": "Slalom Path",
+  "outputDir": "../../robot/paths"
+}
